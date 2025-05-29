@@ -1,6 +1,6 @@
 
 
-<h2 align="left">👨🏾‍💻Olá! Meu nome é Lucas Campos e sou um Desenvolvedor Full Stack Júnior.</h2>
+<h2 align="left">👨🏾‍💻Olá! Meu nome é Lucas Campos e sou um Desenvolvedor Full Stack Trainee.</h2>
 
 ###
 
