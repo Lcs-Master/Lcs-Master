@@ -4,7 +4,7 @@
 
 ###
 
-<h6 align="left">👋 Sobre Mim<br>Sou um Desenvolvedor Full Stack Júnior com experiência na criação e manutenção de aplicações web modernas. Meu foco está no desenvolvimento de soluções eficientes e escaláveis, garantindo a melhor experiência para os usuários.<br><br>🔒 Privacidade e Segurança<br>Todos os projetos em que atuo são privados, garantindo a proteção das informações e a segurança da empresa onde trabalho. Esse compromisso reforça minha responsabilidade com boas práticas de desenvolvimento e confidencialidade.</h6>
+<h6 align="left">👋 Sobre Mim<br>Sou um Desenvolvedor Full Stack Trainee com experiência na criação e manutenção de aplicações web modernas. Meu foco está no desenvolvimento de soluções eficientes e escaláveis, garantindo a melhor experiência para os usuários.<br><br>🔒 Privacidade e Segurança<br>Todos os projetos em que atuo são privados, garantindo a proteção das informações e a segurança da empresa onde trabalho. Esse compromisso reforça minha responsabilidade com boas práticas de desenvolvimento e confidencialidade.</h6>
 
 ###
 
